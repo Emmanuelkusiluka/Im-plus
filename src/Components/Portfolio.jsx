@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/lizard.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A lizard";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Flutter gallery",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "collection of Flutter apps, demos, and vignettes that demonstrate best practices for building responsive, adaptive, and flexible Flutter applications.",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web Development and mobile apps",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "collaborative project that teaches web development and mobile apps to beginners. It is a great resource for those who are new to coding.",
+    url: "https://github.com/EmmanuelKusiluka/Flutter-Responsive-Admin-Panel-or-Dashboard",
   },
   {
-    title: "My Resume Site",
+    title: "Web scraping",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "great for those who are interested in web scraping. It is a great resource for those who are new to coding.",
+    url: "https://github.com/EmmanuelKusiluka/Flutter-Responsive-dashboard",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Git training",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "great for those who are interested in learning Git. It is a great resource for those who are new to coding.",
+    url: "https://www.youtube.com/devslopes",
   },
 ];
 
